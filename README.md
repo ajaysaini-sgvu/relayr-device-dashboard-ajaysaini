@@ -12,7 +12,7 @@ What we're looking for: clean, concise, well-organized, and modern code that mee
 
 You can add some basic styles via CSS, but we won't be judging based on how beautiful or advanced your UI is. A simple, straightforward, functional interface is just fine.
 
-#Snapshot
+## Snapshot
 
 ![Dashboard](./screenshot.png?raw=true)
 
