@@ -1,0 +1,47 @@
+span {
+  display: inline;
+  padding-right: 8px;
+}
+
+.devices {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.error {
+  display: flex;
+  justify-content: flex-start;
+  color: red;
+}
+
+input {
+  height: 20px;
+  align-self: center;
+  margin-left: auto;
+}
+
+th {
+  height: 38px;
+  text-align: center;
+}
+
+tr {
+  height: 38px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+  margin-top: 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}

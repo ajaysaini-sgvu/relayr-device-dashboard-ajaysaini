@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Devices should render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Devices should render error 1`] = `ShallowWrapper {}`;
